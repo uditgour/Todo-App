@@ -1,7 +1,4 @@
-//Todo list app by Afolabi Sheriff
-//features
-//store in localstorage of browser
-//delete list items
+
 
 
 var addButton = document.getElementById('addButton');
